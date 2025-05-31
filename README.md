@@ -16,3 +16,8 @@ T9 Plus mini pc
 - Location: Home office
 - Network: Wired Ethernet connection
 This small but mighty machine sits quietly in my home office and runs 24/7. Perfect for my work-from-home setup.
+
+
+### 📦 Software Stack
+- [SSH via Cloudflared](ssh/ssh-via-cloudflared.md): A guide on how to set up SSH access to my home server using Cloudflare Tunnel.
+- [Oh My Zsh](terminal/terminal.md): A powerful and customizable terminal experience using Oh My Zsh and Powerlevel10k theme.
