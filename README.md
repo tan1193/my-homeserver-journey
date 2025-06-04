@@ -5,6 +5,9 @@
 This repository documents my journey in setting up a home server. It includes various configurations, scripts, and notes that I have found useful along the way.
 ## Contents
 
+### 🧠 Why Build a Home Server? 
+
+My home server is a real-world lab where I practice DevOps and Linux, explore self-hosted tools, and prepare for cloud certs like AWS and Kubernetes — all while showcasing my backend and infrastructure skills through personal projects, Git repos, and internal tools
 
 ### 🖥️ My Home Server Specs
 
