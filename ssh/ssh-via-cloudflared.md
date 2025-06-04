@@ -55,7 +55,7 @@ ingress:
   - service: http_status:404
 ```
 
-5. **Create the DNS record automatically:**:
+5. **Create the DNS record automatically:**
 
 ```bash
 cloudflared tunnel route dns my-home-server ssh.yourdomain.com
