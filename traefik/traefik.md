@@ -8,9 +8,8 @@ Traefik is a modern reverse proxy and load balancer that makes deploying microse
 // using helm
 helm repo add traefik https://helm.traefik.io/traefik
 helm repo update
-helm install traefik traefik/traefik --namespace kube-system --create-namespace \
-  --set service.type=LoadBalancer \
-  --set service.loadBalancerIP=<your-load-balancer-ip> \
-  --set rbac.enabled=true \
-  --set dashboard.enabled=true
+helm install traefik traefik/traefik --namespace traefik --create-namespace
+// check the status
+kubectl get pods -n traefik
 ```
+
