@@ -17,9 +17,3 @@ curl -sSL https://get.k0s.sh | sudo sh
 sudo k0s install controller
 sudo k0s start
 ```
-### On the Worker Node
-```bash
-curl -sSL https://get.k0s.sh | sudo sh
-sudo k0s install worker
-sudo k0s start
-```

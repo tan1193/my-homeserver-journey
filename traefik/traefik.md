@@ -5,11 +5,11 @@ Traefik is a modern reverse proxy and load balancer that makes deploying microse
 ### Installation
 #### On the Master Node
 ```bash
-// using helm
+# using helm
 helm repo add traefik https://helm.traefik.io/traefik
 helm repo update
 helm install traefik traefik/traefik --namespace traefik --create-namespace
-// check the status
+# check the status
 kubectl get pods -n traefik
 ```
 
