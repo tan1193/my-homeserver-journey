@@ -24,3 +24,10 @@ This small but mighty machine sits quietly in my home office and runs 24/7. Perf
 ### 📦 Software Stack
 - [SSH via Cloudflared](ssh/ssh-via-cloudflared.md): A guide on how to set up SSH access to my home server using Cloudflare Tunnel.
 - [Oh My Zsh](terminal/terminal.md): A powerful and customizable terminal experience using Oh My Zsh and Powerlevel10k theme.
+
+## Goals
+- **Learn and Practice**: Use this server to learn and practice DevOps, Linux, and cloud technologies.
+- **Self-Hosted Tools**: Explore and deploy self-hosted tools for personal use.
+- **Documentation**: Document my journey and share useful configurations and scripts.
+- **Showcase Skills**: Use this server to showcase my backend and infrastructure skills through personal projects and internal tools.
+- **1-Click Deploy**: Build a 1-click deploy for my home server using Argo CD and Traefik.
